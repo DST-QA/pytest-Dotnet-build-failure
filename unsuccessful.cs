@@ -1,1 +1,2 @@
-This is an unsuccessful C# build file
+Console.WriteLine("Hello World!");
+
